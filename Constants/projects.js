@@ -113,6 +113,127 @@ export  const projects = [
         tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
         photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
     },
+    {
+        id:11,
+        name: 'Xonnayev Sherzod  Abjalilovich', //project name
+        description: "2022-yil 24-yanvardan:Yoshlar ishlari agentligining Qamashi tumani 'Ko'kbuloq'  mahalla fuqorolar yig'inidagi yoshlar vakili" ,
+        githubLink: '', //github repo link
+        projectLink: '', //deployed project link
+        telegramLink:'',
+        tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
+        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+    },
+    {
+        id:12,
+        name: 'Xolmatov Akroq Abdusattorovich', //project name
+        description: "2023-yil 5-apreldan:Yoshlar ishlari agentligining Qamashi tumani 'Ibn Sino'  mahalla fuqorolar yig'inidagi yoshlar vakili" ,
+        githubLink: '', //github repo link
+        projectLink: '', //deployed project link
+        telegramLink:'',
+        tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
+        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+    },
+    {
+        id:13,
+        name: 'Shaymardonov Turg`un Shaymardon o`g`li', //project name
+        description: "2022-yil 24-yanvardan:Yoshlar ishlari agentligining Qamashi tumani 'Qizilqishloq'  mahalla fuqorolar yig'inidagi yoshlar vakili" ,
+        githubLink: '', //github repo link
+        projectLink: '', //deployed project link
+        telegramLink:'',
+        tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
+        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+    },
+    {
+        id:14,
+        name: 'Ashiraliyev Zokir Zoir o`g`li', //project name
+        description: "2022-yil 24-yanvardan:Yoshlar ishlari agentligining Qamashi tumani 'Qiziltepa'  mahalla fuqorolar yig'inidagi yoshlar vakili" ,
+        githubLink: '', //github repo link
+        projectLink: '', //deployed project link
+        telegramLink:'',
+        tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
+        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+    },
+    {
+        id:15,
+        name: 'Boboyorov Shaxzod Salim o`g`li', //project name
+        description: "2022-yil 24-yanvardan:Yoshlar ishlari agentligining Qamashi tumani 'Qovchin'  mahalla fuqorolar yig'inidagi yoshlar vakili" ,
+        githubLink: '', //github repo link
+        projectLink: '', //deployed project link
+        telegramLink:'',
+        tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
+        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+    },
+    {
+        id:16,
+        name: 'Muxammadiyev Zuhriddin Baxodirovich', //project name
+        description: "2022-yil 24-yanvardan:Yoshlar ishlari agentligining Qamashi tumani 'Qoratepa'  mahalla fuqorolar yig'inidagi yoshlar vakili" ,
+        githubLink: '', //github repo link
+        projectLink: '', //deployed project link
+        telegramLink:'',
+        tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
+        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+    },
+    {
+        id:17,
+        name: 'Eshniyozov Dilmurod Shavkatovich', //project name
+        description: "2022-yil 24-yanvardan:Yoshlar ishlari agentligining Qamashi tumani 'Quyi Yangi'  mahalla fuqorolar yig'inidagi yoshlar vakili" ,
+        githubLink: '', //github repo link
+        projectLink: '', //deployed project link
+        telegramLink:'',
+        tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
+        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+    },
+    {
+        id:18,
+        name: 'Sobriddinov Xusniddin Botirovich', //project name
+        description: "2022-yil 24-yanvardan:Yoshlar ishlari agentligining Qamashi tumani 'Qo`shkapa'  mahalla fuqorolar yig'inidagi yoshlar vakili" ,
+        githubLink: '', //github repo link
+        projectLink: '', //deployed project link
+        telegramLink:'',
+        tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
+        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+    },
+    {
+        id:19,
+        name: 'Karamatov Zufar Ziyodulla o`g`li', //project name
+        description: "2022-yil 24-yanvardan:Yoshlar ishlari agentligining Qamashi tumani 'Mayda'  mahalla fuqorolar yig'inidagi yoshlar vakili" ,
+        githubLink: '', //github repo link
+        projectLink: '', //deployed project link
+        telegramLink:'',
+        tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
+        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+    },
+    {
+        id:20,
+        name: 'Eshonqulov Yusuf Baxriddin o`g`li', //project name
+        description: "2022-yil 24-yanvardan:Yoshlar ishlari agentligining Qamashi tumani 'Navoiy'  mahalla fuqorolar yig'inidagi yoshlar vakili" ,
+        githubLink: '', //github repo link
+        projectLink: '', //deployed project link
+        telegramLink:'',
+        tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
+        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+    },
+    {
+        id:21,
+        name: 'Turdiyev Xusniddin Egamnazarov', //project name
+        description: "2022-yil 24-yanvardan:Yoshlar ishlari agentligining Qamashi tumani 'Robod'  mahalla fuqorolar yig'inidagi yoshlar vakili" ,
+        githubLink: '', //github repo link
+        projectLink: '', //deployed project link
+        telegramLink:'',
+        tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
+        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+    },
+    {
+        id:22,
+        name: 'Ashurov Solixboy Toyir o`g`li', //project name
+        description: "2022-yil 24-yanvardan:Yoshlar ishlari agentligining Qamashi tumani 'Savsantepa'  mahalla fuqorolar yig'inidagi yoshlar vakili" ,
+        githubLink: '', //github repo link
+        projectLink: '', //deployed project link
+        telegramLink:'',
+        tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
+        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+    },
+    
     
     
 ]
