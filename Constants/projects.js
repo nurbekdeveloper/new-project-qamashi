@@ -9,6 +9,19 @@ import Person_7 from '../styles/projects/person_7.jpg';
 import Person_8 from '../styles/projects/person_8.jpg';
 import Person_9 from '../styles/projects/person_9.jpg';
 import Person_10 from '../styles/projects/person_10.jpg';
+import Person_15 from '../styles/projects/person_15.jpg';
+import Person_16 from '../styles/projects/Person_16.jpg';
+import Person_17 from '../styles/projects/Person_17.jpg';
+import Person_18 from '../styles/projects/Person_18.jpg';
+import Person_19 from '../styles/projects/Person_19.jpg';
+import Person_20 from '../styles/projects/Person_20.jpg';
+import Person_21 from '../styles/projects/Person_21.jpg';
+import Person_22 from '../styles/projects/person_22.jpg';
+import Person_23 from '../styles/projects/person_23.jpg';
+import Person_24 from '../styles/projects/person_24.jpg';
+import Person_25 from '../styles/projects/Person_25.jpg';
+
+
 
 // first 3 projects are visible on the homepage while all are visible on the work page.
 
@@ -121,17 +134,17 @@ export  const projects = [
         projectLink: '', //deployed project link
         telegramLink:'',
         tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
-        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+        photo:[Person_15,Person_15,Person_15], //list of names of images from above imports.
     },
     {
         id:12,
-        name: 'Xolmatov Akroq Abdusattorovich', //project name
+        name: 'Xolmatov Akrom Abdusattorovich', //project name
         description: "2023-yil 5-apreldan:Yoshlar ishlari agentligining Qamashi tumani 'Ibn Sino'  mahalla fuqorolar yig'inidagi yoshlar vakili" ,
         githubLink: '', //github repo link
         projectLink: '', //deployed project link
         telegramLink:'',
         tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
-        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+        photo:[Person_16,Person_16,Person_16], //list of names of images from above imports.
     },
     {
         id:13,
@@ -141,7 +154,7 @@ export  const projects = [
         projectLink: '', //deployed project link
         telegramLink:'',
         tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
-        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+        photo:[Person_17,Person_17,Person_17], //list of names of images from above imports.
     },
     {
         id:14,
@@ -151,7 +164,7 @@ export  const projects = [
         projectLink: '', //deployed project link
         telegramLink:'',
         tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
-        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+        photo:[Person_18,Person_18,Person_18], //list of names of images from above imports.
     },
     {
         id:15,
@@ -161,7 +174,7 @@ export  const projects = [
         projectLink: '', //deployed project link
         telegramLink:'',
         tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
-        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+        photo:[Person_19,Person_19,Person_19], //list of names of images from above imports.
     },
     {
         id:16,
@@ -171,7 +184,7 @@ export  const projects = [
         projectLink: '', //deployed project link
         telegramLink:'',
         tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
-        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+        photo:[Person_20,Person_20,Person_20], //list of names of images from above imports.
     },
     {
         id:17,
@@ -181,7 +194,7 @@ export  const projects = [
         projectLink: '', //deployed project link
         telegramLink:'',
         tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
-        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+        photo:[Person_21,Person_21,Person_21], //list of names of images from above imports.
     },
     {
         id:18,
@@ -191,7 +204,7 @@ export  const projects = [
         projectLink: '', //deployed project link
         telegramLink:'',
         tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
-        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+        photo:[Person_22,Person_22,Person_22], //list of names of images from above imports.
     },
     {
         id:19,
@@ -201,7 +214,7 @@ export  const projects = [
         projectLink: '', //deployed project link
         telegramLink:'',
         tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
-        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+        photo:[Person_23,Person_23,Person_23], //list of names of images from above imports.
     },
     {
         id:20,
@@ -211,7 +224,7 @@ export  const projects = [
         projectLink: '', //deployed project link
         telegramLink:'',
         tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
-        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+        photo:[Person_24,Person_24,Person_24], //list of names of images from above imports.
     },
     {
         id:21,
@@ -221,18 +234,9 @@ export  const projects = [
         projectLink: '', //deployed project link
         telegramLink:'',
         tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
-        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
+        photo:[Person_25,Person_25,Person_25], //list of names of images from above imports.
     },
-    {
-        id:22,
-        name: 'Ashurov Solixboy Toyir o`g`li', //project name
-        description: "2022-yil 24-yanvardan:Yoshlar ishlari agentligining Qamashi tumani 'Savsantepa'  mahalla fuqorolar yig'inidagi yoshlar vakili" ,
-        githubLink: '', //github repo link
-        projectLink: '', //deployed project link
-        telegramLink:'',
-        tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
-        photo:[Person_10,Person_10,Person_10], //list of names of images from above imports.
-    },
+   
     
     
     
