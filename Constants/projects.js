@@ -62,7 +62,7 @@ export  const projects = [
         description: "2022-yil 24-yanvardan:Yoshlar ishlari agentligining Qamashi tumani 'Berdoli'  mahalla fuqorolar yig'inidagi yoshlar vakili" ,
         githubLink: '', //github repo link
         projectLink: '', //deployed project link
-        telegramLink:'',
+        telegramLink:'https:',
         tech: ['Tech1', 'Tech2', 'Tech3'], //techstack of the project, it is advisavble to mention only upto 3 technologies here to maintain the ui
         photo:[Person_4,Person_4,Person_4], //list of names of images from above imports.
     },
