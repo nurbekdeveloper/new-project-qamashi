@@ -82,7 +82,7 @@ console.log(project);
             </Tooltip> */}
             <Tooltip label="Project link" placement="right">
               <div className={styles.socialIcon} style={{ color: currentTheme.subtext, borderColor: currentTheme.subtext }}>
-                {project.projectLink !== '' ? <Link href={project.projectLink}><a><FontAwesomeIcon icon={faTelegramPlane} /></a></Link> : <FontAwesomeIcon icon={faTelegramPlane} onClick={showProjToast} />}
+                {project.telegramLink !== '' ? <Link href={project.telegramLink}><a><FontAwesomeIcon icon={faTelegramPlane} /></a></Link> : <FontAwesomeIcon icon={faTelegramPlane} onClick={showProjToast} />}
               </div>
             </Tooltip>
           </div>

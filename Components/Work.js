@@ -35,6 +35,9 @@ const Work = ({ currentTheme }) => {
 
     return (
         <div>
+            {
+                userinfo.experience.visible ? <Experiences currentTheme={currentTheme} /> : null
+            }
             <div className={styles.workHeading}>{headings.workMainPage}</div>
             <div className={styles.workmain} style={{ color: currentTheme.subtext }}>
                 {
@@ -47,9 +50,7 @@ const Work = ({ currentTheme }) => {
                     })
                 }
             </div>
-            {
-                userinfo.experience.visible ? <Experiences currentTheme={currentTheme} /> : null
-            }
+            
             {/* {
                 userinfo.blogs.visible ?
                     <div style={{ backgroundColor: currentTheme.secondary }}>

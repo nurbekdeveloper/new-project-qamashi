@@ -47,7 +47,7 @@ export const userinfo = {
     ],
     about: {
         //this text goes at the bottom of your home page.
-        content: "Qamashi tumani — Oʻzbekiston Respublikasining Qashqadaryo viloyatidagi tuman, 1937-yil 29-sentabrda tashkil etilgan. 1962-yil 24-dekabrda Qarshi tumaniga qoʻshilgan. 1964-yil 31-dekabrda yana qaytadan tashkil etilgan. Shimoldan Chiroqchi, Yakkabogʻ, Shahrisabz tumanlari, gʻarbdan Koson tumani, janubdan Gʻuzor, Dehqonobod tumanlari, sharqdan Surxondaryo viloyatining Boysun tumani bilan chegaradosh. Maydoni 2,66 ming km2. Aholisi 280,6 ming kishi (2022). Tumanda 60 ta mahalla fuqarolar yigʻini bor. Markazi — Qamashi shahri[",
+        content: "1918-yilda Butunittifoq Leninchi Kommunistik Yoshlar Ittifoqi OʻzSSR boshqarmasi sifatida tashkil topgan.1991-yilda Oʻzbekiston yoshlar ittifoqiga aylantirilgan.1996-yilda „Kamolot“ yoshlar ijtimoiy harakati sifatida faoliyat koʻrsatgan. 2017-yilda yana Oʻzbekiston yoshlar ittifoqiga aylantirilgan. Oʻzbekiston Prezidenti Shavkat Mirziyoyevning 2020-yil 30-iyundagi farmoni bilan agentlik sifatida qayta tashkil etildi. O‘zbekiston Respublikasi Yoshlar ishlari agentligi yoshlarga oid davlat siyosatini yangi bosqichga olib chiqish, yoshlar sohasidagi muammolarga samarali yechim topish, ularni har tomonlama qo‘llab-quvvatlash, shuningdek vakolatli organlar faoliyatini samarali tashkil etish hamda muvofiqlashtirishni amalga oshiruvchi davlat tashkilotidir. Agentlikning qabul qilgan qarorlari davlat organlari, boshqa tashkilot va ularning mansabdor shaxslari, shuningdek, fuqarolar uchun bajarilishi majburiy hisoblanadi. Agentlik yuridik shaxs hisoblanib, o‘z nomi yozilgan va Davlat gerbi tasviri tushirilgan muhr va blankalarga, mustaqil balansga, shaxsiy g‘azna hisobvaraqlariga, bank hisobvaraqlariga ega. Agentlik tizimiga agentlikning markaziy apparati, hududiy va mahalliy bo‘linmalari, Yoshlar muammolarini o‘rganish va istiqbolli kadrlarni tayyorlash instituti kiradi. Hududiy bo‘linmalar (tumanlar va shaharlar bo‘limlari bundan mustasno) yuridik shaxs tashkil etgan holda faoliyat yuritadi. Yoshlar ishlari agentligi Prezidentning PF-6017-son Farmoni bilan tashkil etilgan.",
         resume: "/" //link your resume here. it can be drive link or any other link
     },
     education: {
@@ -117,7 +117,7 @@ export const headings = {
     workHomePage: 'Yangiliklar',
     workMainPage: 'Mahalla yetakchilari',
     capabilities: 'Capabilities',
-    about: 'Tuman haqida',
+    about: 'YOSHLAR ISHLARI AGENTLIGI HAQIDA',
     education: 'Education',
     experience: 'Experiences',
     blogs: 'I write!',

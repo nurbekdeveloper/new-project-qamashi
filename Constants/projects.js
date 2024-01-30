@@ -1,5 +1,5 @@
 // import project demo images as follows.
-import Person_1 from '../styles/projects/pic_1.png';
+import Person_1 from '../styles/projects/person_1.jpg';
 import Person_2 from '../styles/projects/person_2.jpg';
 import Person_3 from '../styles/projects/person_3.jpg';
 import Person_4 from '../styles/projects/person_4.jpg';
@@ -10,16 +10,16 @@ import Person_8 from '../styles/projects/person_8.jpg';
 import Person_9 from '../styles/projects/person_9.jpg';
 import Person_10 from '../styles/projects/person_10.jpg';
 import Person_15 from '../styles/projects/person_15.jpg';
-import Person_16 from '../styles/projects/Person_16.jpg';
-import Person_17 from '../styles/projects/Person_17.jpg';
-import Person_18 from '../styles/projects/Person_18.jpg';
-import Person_19 from '../styles/projects/Person_19.jpg';
-import Person_20 from '../styles/projects/Person_20.jpg';
-import Person_21 from '../styles/projects/Person_21.jpg';
+import Person_16 from '../styles/projects/person_16.jpg';
+import Person_17 from '../styles/projects/person_17.jpg';
+import Person_18 from '../styles/projects/person_18.jpg';
+import Person_19 from '../styles/projects/person_19.jpg';
+import Person_20 from '../styles/projects/person_20.jpg';
+import Person_21 from '../styles/projects/person_21.jpg';
 import Person_22 from '../styles/projects/person_22.jpg';
 import Person_23 from '../styles/projects/person_23.jpg';
 import Person_24 from '../styles/projects/person_24.jpg';
-import Person_25 from '../styles/projects/Person_25.jpg';
+import Person_25 from '../styles/projects/person_25.jpg';
 
 
 
